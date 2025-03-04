@@ -1,4 +1,4 @@
-# Plant Classification using Multi-Modal Imaging
+# Plant Transpiration Regression using Multi-Modal Imaging
 
 A PyTorch-based framework for plant classification using multiple imaging modalities, including LWIR (Long-Wave Infrared) and VIR (Visible and Infrared) at various wavelengths.
 
